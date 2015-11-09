@@ -1,4 +1,4 @@
-#Lottery 游戏算法
+#Lottery 时时彩游戏算法
 
 感谢dondon,以下公式由dondon指导得出的
 
